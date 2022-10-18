@@ -1,0 +1,15 @@
+C:\Users\anyut\source\repos\Label\bin\Debug\Label.exe.config
+C:\Users\anyut\source\repos\Label\bin\Debug\Label.exe
+C:\Users\anyut\source\repos\Label\bin\Debug\Label.pdb
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.csprojAssemblyReference.cache
+C:\Users\anyut\source\repos\Label\obj\Debug\MainWindow.g.cs
+C:\Users\anyut\source\repos\Label\obj\Debug\App.g.cs
+C:\Users\anyut\source\repos\Label\obj\Debug\Label_MarkupCompile.cache
+C:\Users\anyut\source\repos\Label\obj\Debug\Label_MarkupCompile.lref
+C:\Users\anyut\source\repos\Label\obj\Debug\MainWindow.baml
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.g.resources
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.Properties.Resources.resources
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.csproj.GenerateResource.cache
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.csproj.CoreCompileInputs.cache
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.exe
+C:\Users\anyut\source\repos\Label\obj\Debug\Label.pdb
