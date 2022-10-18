@@ -1,0 +1,15 @@
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\MainWindow.g.cs
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\App.g.cs
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.cache
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.lref
+C:\Users\anyut\source\repos\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\anyut\source\repos\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\anyut\source\repos\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\MainWindow.baml
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.g.resources
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\anyut\source\repos\DragAndDrop\obj\Debug\DragAndDrop.pdb
