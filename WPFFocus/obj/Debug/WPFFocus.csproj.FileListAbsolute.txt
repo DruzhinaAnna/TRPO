@@ -1,0 +1,14 @@
+C:\Users\anyut\source\repos\WPFFocus\bin\Debug\WPFFocus.exe.config
+C:\Users\anyut\source\repos\WPFFocus\bin\Debug\WPFFocus.exe
+C:\Users\anyut\source\repos\WPFFocus\bin\Debug\WPFFocus.pdb
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\MainWindow.g.cs
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\App.g.cs
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.cache
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.lref
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\MainWindow.baml
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.g.resources
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.Properties.Resources.resources
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.csproj.GenerateResource.cache
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.csproj.CoreCompileInputs.cache
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.exe
+C:\Users\anyut\source\repos\WPFFocus\obj\Debug\WPFFocus.pdb
