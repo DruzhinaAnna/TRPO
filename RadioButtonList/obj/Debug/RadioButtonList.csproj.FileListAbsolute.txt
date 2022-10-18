@@ -1,0 +1,14 @@
+C:\Users\anyut\source\repos\RadioButtonList\bin\Debug\RadioButtonList.exe.config
+C:\Users\anyut\source\repos\RadioButtonList\bin\Debug\RadioButtonList.exe
+C:\Users\anyut\source\repos\RadioButtonList\bin\Debug\RadioButtonList.pdb
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\MainWindow.g.cs
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\App.g.cs
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.cache
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.lref
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\MainWindow.baml
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.g.resources
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.Properties.Resources.resources
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.csproj.GenerateResource.cache
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.csproj.CoreCompileInputs.cache
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.exe
+C:\Users\anyut\source\repos\RadioButtonList\obj\Debug\RadioButtonList.pdb
